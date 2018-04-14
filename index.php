@@ -29,7 +29,7 @@
 			<span><img src="img/fig.png"></span>
 			<span><img src="img/hng.png"></span>
 		</div>
-		<p>Designed by Kreativejosh</p>
+		<p>Designed by Kreativejoshs</p>
 	</div>
 </body>
 </html>
